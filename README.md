@@ -13,7 +13,7 @@ To install the Busy_Buy, follow these steps:
 Clone this repository using the following command:
 
 ```
-$ git clone https://github.com/sanskar1419/Busy-Buy-Full-Stack-Application-.git
+$ git clone https://github.com/sanskar1419/E-Commerce-Server.git
 ```
 
 Install the required dependencies for backend using the following command:
